@@ -1,4 +1,5 @@
 # DeFiHackathon
+devpost submission: https://devpost.com/software/definingdefi
 ## Inspiration
 DeFi lending protocols are used mostly by speculators. In order to make these products useful for the unbanked, we need to lower collateralization requirements via a decentralized reputation system that doesn't rely on KYC.
 
